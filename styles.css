@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+#namehead{
+	text-align:center;
+}
+
+#proimage{
+	height:200px;
+	width:200px;
+	margin-top:20px;
+}
